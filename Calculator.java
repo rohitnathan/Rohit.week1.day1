@@ -26,7 +26,7 @@ public class Calculator {
 		double mul = calc.mul(2.5, 4.5);
 		int divide = calc.divide(50, 10);
 
-		System.out.println("Addition" + add);
+		System.out.println(add);
 		System.out.println(sub);
 		System.out.println(mul);
 		System.out.println(divide);
