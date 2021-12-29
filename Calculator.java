@@ -1,4 +1,5 @@
 package week1.day2;
+//declaring variables in the method and calling the variables in the main method
 
 public class Calculator {
 
